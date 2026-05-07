@@ -85,7 +85,7 @@
 }
 
 a.primary {
-  background: var(--text-primary);
+  background: red; /* Changed to red */
   color: var(--background);
   gap: 8px;
 }
